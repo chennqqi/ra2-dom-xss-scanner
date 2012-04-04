@@ -1,0 +1,19 @@
+#summary Project Readme and Installation Guide
+#labels Phase-Support
+
+= Introduction =
+
+This is a quick readme to get you started with the tool. Be warned that this tool is in no way a completely developed tool. In fact it is a dirty proof-of-concept. Work is in progress!
+This tool and its source code is released under the terms and conditions of GNU GPL v3 license. By installing and using this tool, you comply with the GNU GPL v3 license's terms and conditions.
+
+= Installation =
+
+ 1. Download the "ra.two.xpi" file and install it within Mozilla Firefox. We have tested it to be working fine on Mozilla Firefox Version 11.0 running on Windows 7 64bit. Your mileage may vary.
+
+ 2. Download the archive "vectors.zip". Extract the contents ("xss.txt") to a folder. Rename the folder "xss" and copy it to the root of "C:". The resulting path should be "C:\xss\xss.txt".
+
+ 3. Download the archive "reporting-tool.zip". Extract the contents to the webroot of your Apache server. We have tested it using the XAMPP package (http://www.apachefriends.org/en/xampp.html). In our case the path is "C:\xampp\htdocs\xss\"
+
+ 4. Finally import the database schema to the MySQL via phpMyAdmin, required for the reporting tool.
+
+ 5. The tool should be ready to use. If you find anything not working or buggy, please email us or raise a ticket at http://code.google.com/p/ra2-dom-xss-scanner/issues/list
