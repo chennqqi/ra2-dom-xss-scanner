@@ -8,7 +8,7 @@ This tool and its source code is released under the terms and conditions of GNU 
 
 = Installation =
 
- 1. Download the "ra.two.xpi" file and install it within Mozilla Firefox. We have tested it to be working fine on Mozilla Firefox Version 11.0 running on Windows 7 64bit. Your mileage may vary.
+ 1. Download the "ra.two.xpi" file and install it within Mozilla Firefox. We have tested it to be working fine on Mozilla Firefox Version 3.6.0 running on Windows 7 64bit. Your mileage may vary.
 
  2. Download the archive "vectors.zip". Extract the contents ("xss.txt") to a folder. Rename the folder "xss" and copy it to the root of "C:". The resulting path should be "C:\xss\xss.txt".
 
