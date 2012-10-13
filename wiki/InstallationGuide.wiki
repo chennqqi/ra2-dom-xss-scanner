@@ -10,7 +10,7 @@ This tool and its source code is released under the terms and conditions of GNU 
 ===Installation (Windows)===
 ------
 
-1. Download the {{{"ra.two.zip"}}} file and extract to disk. We have tested it to be working fine on Mozilla Firefox Version 3.6.0 running on Windows 7 64bit. Your mileage may vary.
+1. Download the {{{"ra.two.zip"}}} file and extract to disk. We have tested it to be working fine on Mozilla Firefox Version 3.6.0 and above till ver. 14.0 running on Windows 7 64bit. Your mileage may vary.
 
 2. 2. Download and unzip {{{"add-on-installer.zip"}}} and extract the file {{{"ra2@domxssscanner.app"}}} file. Now edit it and remove all lines and add the path of the extracted folder {{{"ra.two"}}} , you did in Step 1.
 
