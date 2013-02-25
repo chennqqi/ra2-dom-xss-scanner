@@ -27,13 +27,6 @@ Now go to the "extensions" folder within the profiles directory. Now copy the {{
 7. The tool should be ready to use. If you find anything not working or buggy, please email us or raise a ticket at http://code.google.com/p/ra2-dom-xss-scanner/issues/list
 
 
-===Installation (Linux)===
+===Installation Tutorial (Mac OS X and Linux)===
 ------
-
-Shall be updated shortly
-
-
-===Installation (Mac OS X)===
--------
-
-Shall be updated shortly
+Please watch the video (on YouTube) here: http://www.youtube.com/v/2TrOTKCuIhw
